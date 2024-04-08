@@ -19,7 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{secrets.PAT_TOKEN}}
           org_name: "woodrbe"
           repo_name: "openssl"
-          csv_path: data/vulnerability.csv
+          csv_path: data/vulnerability1.csv
 
       - name: Upload Vulnerability report
         uses: actions/upload-artifact@v4
