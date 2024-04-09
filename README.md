@@ -15,7 +15,7 @@ cryptographic library, which can also be used stand-alone. Also included is a
 cryptographic module validated to conform with FIPS standards.
 
 OpenSSL is descended from the SSLeay library developed by Eric A. Young
-and Tim J. Hudson.
+and Tim J. Hudson.1
 
 The official Home Page of the OpenSSL Project is [www.openssl.org].
 
